@@ -17,11 +17,11 @@
     <tr>
       <td>Aluno: <code>Celso Vinícius Sudário</code></td>
       <td>Matrícula: <code>20203003611</code></td>
-    </tr>
+    <!-- </tr>
       <tr>
       <td>Aluno: <code>Pedro H. Pires Dias</code></td>
       <td>Matrícula: <code>00000000000</code></td>
-    </tr>
+    </tr> -->
 </thead>
 </table>
 

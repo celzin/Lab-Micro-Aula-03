@@ -10,18 +10,18 @@
 <table>
 <thead>
   <tr>
-    <td rowspan="2"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_CEFET-MG.png" alt="Image" width="200" height="200"></td>
+    <td rowspan="3"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_CEFET-MG.png" alt="Image" width="200" height="200"></td>
     <td>Professor: Diego Ascanio</td>
     <td>Disciplina: Lab. de Micro</td>
-  </tr>Contador de Interrupções Externas:
-
-Objetivo: Crie um programa que use uma interrupção externa para contar o número de vezes que um botão é pressionado.
-Detalhes: O contador deve ser incrementado a cada pressionamento de botão e o valor atual deve ser exibido no Serial Monitor. Utilize o pino 2 do Arduino UNO para a interrupção.
-
-  <tr>
-    <td>Aluno: <code>Celso Vinícius Sudário</code></td>
-    <td>Matrícula: <code>20203003611</code></td>
   </tr>
+    <tr>
+      <td>Aluno: <code>Celso Vinícius Sudário</code></td>
+      <td>Matrícula: <code>20203003611</code></td>
+    </tr>
+      <tr>
+      <td>Aluno: <code>Pedro H. Pires Dias</code></td>
+      <td>Matrícula: <code>00000000000</code></td>
+    </tr>
 </thead>
 </table>
 

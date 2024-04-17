@@ -69,7 +69,7 @@ void buttonPressed() {
 ```
 
 <p align="center">
-<img src="imgs/01.png" width="600"/> 
+<img src="imgs/01.png" width="450"/> 
 </p>
 <p align="center">
 <em>Figura 1: Captura de tela do exercício 1 implementado.</em>
@@ -137,7 +137,7 @@ void stopTimer() {
 ```
 
 <p align="center">
-<img src="imgs/02.png" width="600"/> 
+<img src="imgs/02.png" width="450"/> 
 </p>
 <p align="center">
 <em>Figura 2: Captura de tela do exercício 2 implementado.</em>
@@ -204,7 +204,7 @@ void stopAlarm() {
 ```
 
 <p align="center">
-<img src="imgs/03.png" width="600"/> 
+<img src="imgs/03.png" width="450"/> 
 </p>
 <p align="center">
 <em>Figura 3: Captura de tela do exercício 3 implementado.</em>
@@ -285,7 +285,7 @@ void stopAlarm() {
 ```
 
 <p align="center">
-<img src="imgs/04.png" width="600"/> 
+<img src="imgs/04.png" width="450"/> 
 </p>
 <p align="center">
 <em>Figura 4: Figura do exercício 4 implementado.</em>

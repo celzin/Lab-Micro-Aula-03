@@ -76,7 +76,7 @@ void buttonPressed() {
 </p>
 
 <div align=center>
-Link do projeto: 
+Link do projeto: https://wokwi.com/projects/394886202460153857
 </div>
   
 ## Exercício 2
@@ -144,7 +144,7 @@ void stopTimer() {
 </p>
 
 <div align=center>
-Link do projeto: 
+Link do projeto: https://wokwi.com/projects/394886401945459713
 </div>
 
 ## Exercício 3
@@ -211,7 +211,7 @@ void stopAlarm() {
 </p>
 
 <div align=center>
-Link do projeto: 
+Link do projeto: https://wokwi.com/projects/394886926496697345
 </div>
 
 ## Exercício 4
@@ -231,7 +231,7 @@ Detalhes: Utilize um buzzer para o som do alarme e botões para disparar (deslig
 
 <div align="justify">
 
-Nessa lógica, o sistema de alarme começa em estado inativo. Pressionar o botão de disparo/desligamento ativa o alarme, marcando o tempo de início e ligando o buzzer. Se o botão soneca é pressionado enquanto o alarme está ativo, o sistema recalcula o `alarmStartTime` para permitir um período de soneca antes de o alarme soar novamente. Se o alarme não for desligado manualmente, ele desliga automaticamente após 30 segundos. Esse projeto demonstra a utilização de interrupções para lidar com eventos de botões e a lógica de temporização para controlar as funções de alarme e soneca.
+Nessa lógica, o sistema de alarme começa em estado inativo. Pressionar o botão de disparo/desligamento ativa o alarme, marcando o tempo de início e ligando o buzzer. Se o botão soneca é pressionado enquanto o alarme está ativo, o sistema recalcula o `alarmStartTime` para permitir um período de soneca antes de o alarme soar novamente. Se o alarme não for desligado manualmente, ele desliga automaticamente após 30 segundos. Esse projeto demonstra a utilização de interrupções para lidar com eventos de botões e a lógica de temporização para controlar as funções de alarme e soneca. Para resolver o problema de interferência entre o contador e o uso do buzzer no quarto exercício, foi necessário utilizar outro timer para controlar o buzzer. Substituímos o uso da função `tone()` pelo controle direto do timer1 através da biblioteca `TimerOne`.
 
 </div>
 
@@ -292,5 +292,5 @@ void stopAlarm() {
 </p>
 
 <div align=center>
-Link do projeto: 
+Link do projeto: https://wokwi.com/projects/394887712239837185
 </div>
